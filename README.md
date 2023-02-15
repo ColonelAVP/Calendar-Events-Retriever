@@ -34,6 +34,11 @@ get users calendar access. Below are detail of API endpoint and corresponding vi
 
 ## Screenshots
 * Get-Consent-Screen
-![alt_tag](https://raw.githubusercontent.com/ColonelAVP/CalendarEventRetriever/master/Outputs/consent_window.png)
+![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Calendar-Events-Retriever/master/Outputs/consent_window.png)
+* Get-Permissions
+![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Calendar-Events-Retriever/master/Outputs/Access_user.png)
+*Redirect-URL
+![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Calendar-Events-Retriever/master/Outputs/Redirect_response.png)
 * Stored-Events
-![alt_tag](https://raw.githubusercontent.com/ColonelAVP/CalendarEventRetriever/master/Outputs/events_store_in_DB.png)
+![alt_tag](https://raw.githubusercontent.com/ColonelAVP/Calendar-Events-Retriever/master/Outputs/events_store_in_DB.png)
+
